@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2748" started-at="2013-11-03T00:36:54Z" finished-at="2013-11-03T00:36:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2748" started-at="2013-11-03T00:36:54Z" finished-at="2013-11-03T00:36:56Z">
+      <class name="ShahidulNG">
+        <test-method status="PASS" signature="start()[pri:0, instance:ShahidulNG@1579d6ce]" name="start" is-config="true" duration-ms="1406" started-at="2013-11-02T20:36:54Z" finished-at="2013-11-02T20:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginin()[pri:0, instance:ShahidulNG@1579d6ce]" name="loginin" duration-ms="810" started-at="2013-11-02T20:36:55Z" finished-at="2013-11-02T20:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginin -->
+        <test-method status="PASS" signature="end()[pri:0, instance:ShahidulNG@1579d6ce]" name="end" is-config="true" duration-ms="512" started-at="2013-11-02T20:36:56Z" finished-at="2013-11-02T20:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- ShahidulNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
